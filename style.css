@@ -1,0 +1,60 @@
+h1{
+    color: blue;
+    font-weight: 600;
+    font-family:  sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+
+p{
+    background-color: burlywood;
+    font-size: 20px;
+    font-style: italic;
+    color:rgb(95, 90, 90);
+    font-weight: 900;
+}
+
+div{
+    background-color: rgb(200, 228, 200);
+font-style: italic;
+align-content: center;
+}
+div img{
+    height: 500px;
+    width: 500px;
+}
+div h3{
+    background-color: rgb(216, 228, 228);
+    font-size: 900;
+}
+
+div p{
+    font-style: italic;
+}
+.dan{
+    background-color: white
+}
+.dan div{
+    background-color: rgb(219, 236, 236);
+}
+.dan h3{
+font-style: italic;
+}
+.dan p{
+    font-style: italic;
+    font-size: 900;
+}
+.africa{
+    font-weight: 900;
+    font-style: italic;
+    background-color: dimgray;
+}
+.africa h3{
+    font-size: 900;
+color: dimgray;
+}
+.africa ol{
+    font-size: 900px;
+    font-style: italic;
+    color: honeydew;
+}
